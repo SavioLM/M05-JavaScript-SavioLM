@@ -1,0 +1,4 @@
+Pergunta: Explique as diferenças e especificidades de variáveis criadas com os comandos:
+--------: Variáveis declaradas com const são constantes e não podem ser reatribuídas após a atribuição inicial. Deve ser inicializada com um valor quando declarada. Elas têm escopo de bloco.
+--------: Variáveis declaradas com let são mutáveis e podem ser reatribuídas. Não é necessário inicializá-las imediatamente. Elas também têm escopo de bloco.
+--------: Variáveis declaradas com var são mutáveis e podem ser reatribuídas. Não é necessário inicializá-las imediatamente. Elas têm escopo de função ou escopo global.

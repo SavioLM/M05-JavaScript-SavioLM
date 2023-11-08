@@ -1,0 +1,23 @@
+1. 
+O que é NVM ?
+Resposta: É uma ferramenta ultilizado para gerenciar diferentes versões.
+
+2. 
+a) O que é NPM e para que o utilizamos?
+Resposta: NPM é um gerenciador de pacotes, usado para instalar, atualizar, gerenciar e compartilhar bibliotecas.
+
+b) O que o comando "npm install prompt-sync" realiza?
+Resposta: instala o pacote JavaScript chamado prompt-sync.
+
+c) Em qual diretório devemos instalar uma biblioteca javascript?
+Resposta: No mesmo diretório que está os arquivos .js.
+
+3.
+Existe diferença entre o código que cria e o que faz uso de uma variável em python? Se sim explique essa diferença
+Resposta: Não existe diferença. 
+Exemplo: criar variável (x = 6), modificar (x = 7)
+
+4.
+Existe diferença entre o código que cria e o que faz uso de uma variável em javascript? Se sim explique essa diferença.
+Resposta: Sim, existe. Você cria variáveis usando var, let ou const. Exemplo: let variavel_let = 5, var variavel_var = 7 e const variavel_const = 8. 
+--------: Para modificar essas variávei chamamos seu nome e reatribuimos o valor, exeto const pois não podem ser reatribuídas após a atribuição inicial. Exemplo: variavel_let = 67 - variavel_var = 54

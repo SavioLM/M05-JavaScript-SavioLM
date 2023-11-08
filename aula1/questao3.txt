@@ -1,0 +1,17 @@
+Pergunta: Diga o que será impresso na tela após executar cada um dos códigos abaixo:
+
+var x = 5;
+function fun() {
+    var x = 6;
+    console.log(x);
+}
+console.log(x);
+
+let x = 5;
+function fun() {
+    let x = 6;
+    console.log(x);
+}
+console.log(x);
+
+Resposta: Será impresso 5 em ambos os códigos, mas se chamar a função fun em ambos será impresso 5 e 6
